@@ -1,8 +1,6 @@
 ## Summary about me
 
-You can use the [editor on GitHub](https://github.com/salaheddin-darwish/salaheddin-darwish.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I  am a lecturer at Information Security Group (ISG), Royal Holloway University of London. I have been teaching some modules related to cyber security such as computer and network security, access control, security protocols, data security,etc. I have been involved in different research projects tackling various topics in Blockchain and Distributed ledger technologies, wireless networks, security, IoT, privacy, risk and threats modelling.
 
 ## Education & Experience
 
