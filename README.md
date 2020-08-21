@@ -1,23 +1,39 @@
-## Summary about me
+# Summary about me
 
-I  am a lecturer at Information Security Group (ISG), Royal Holloway University of London. I have been teaching some modules related to cyber security such as computer and network security, access control, security protocols, data security,etc. I have been involved in different research projects tackling various topics in Blockchain and Distributed ledger technologies, wireless networks, security, IoT, privacy, risk and threats modelling.
+Cyber Security and related stuff is my passion. I am a lecturer at Information Security Group (ISG), Royal Holloway University of London. I have been teaching some modules related to cyber security such as computer and network security, access control, security protocols, data security,etc. I have been involved in different research projects tackling various topics in Blockchain and Distributed ledger technologies, wireless networks, security, IoT, privacy, risk and threats modelling.
 
-## Education & Experience
+# Education & Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+PhD in MANETs security, Brunel Unversity London
+Master (MRes) in Information Technology, Brunel University
 
-```markdown
-Syntax highlighted code block
+# Modules (teaching):  
+- IY2840 Computer and Network Security - Year2
+- IY2760 Introduction to Information Security - Year2
+- IY5607 Software Security - MSc
+- IY5511 Network Security - MSc
+- 
+# Student Supervision 
 
-# Header 1
-## Header 2
-### Header 3
+## MSc project:
 
-- Bulleted
-- List
+**2018/2019**
 
-1. Numbered
-2. List
+- Mahmood Faraz (Secure IoT deployement) 
+- Mouhamed.Kennou (Traffic security system) 
+- Chandrashekar Narayana (Privacy and Blockchain)
+- Ramin Miakheyl (Autonomous Vehicles Security)
+- Harish Pillai	(Secrity of IoT and Testing)
+- Tianshu Gao  (Privacy - GDPR)
+- Ragish ShanmughamRevathy (Privacy and Security of healthcare systems) 
+- 
+**2019/2020**
+- Kashika Jogiani (IoT malware)
+- Ojimaojo (Michael) Baba (IA and IDS)
+- Viqar Ahmad (Security in SDN) 
+- Anis	Ahmed (Fishing) 
+- Lyuli	Deng (5G and IoT) 
+- Jerica	Tolentino (Serverless Security)
 
 **Bold** and _Italic_ and `Code` text
 
