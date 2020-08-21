@@ -5,6 +5,7 @@ Cyber Security and related stuff are my passion. I am a lecturer at Information 
 # Education & Experience
 
 PhD in MANETs security, Brunel Unversity London
+
 Master (MRes) in Information Technology, Brunel University
 
 # Modules (teaching):  
