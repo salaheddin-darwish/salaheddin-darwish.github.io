@@ -38,7 +38,7 @@ Master (MRes) in Information Technology, Brunel University
 - Lyuli	Deng (5G and IoT) 
 - Jerica	Tolentino (Serverless Security)
 
-## Final Year Projects:
+## Final Year Projects (2019/2020):
 - Benjamin Cook (MITM in Bluetooth)
 - Jake Shepherdson (Bluetooth Security)
 - D'Mitri Seymour (MITM in Bluetooth) 
