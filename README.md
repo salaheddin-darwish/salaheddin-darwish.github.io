@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Summary about me
 
 You can use the [editor on GitHub](https://github.com/salaheddin-darwish/salaheddin-darwish.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Education & Experience
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://avatars2.githubusercontent.com/u/37536214?s=400&u=eba7657251ab1e7de4bb07260e3d064437e10e26&v=4)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
