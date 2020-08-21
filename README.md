@@ -15,10 +15,10 @@ Master (MRes) in Information Technology, Brunel University
 - IY2760 Introduction to Information Security - Year2
 - IY5607 Software Security - MSc
 - IY5511 Network Security - MSc
-- 
+
 # Student Supervision 
 
-## MSc project:
+## MSc projects:
 
 **2018/2019**
 
@@ -37,6 +37,17 @@ Master (MRes) in Information Technology, Brunel University
 - Anis	Ahmed (Fishing) 
 - Lyuli	Deng (5G and IoT) 
 - Jerica	Tolentino (Serverless Security)
+
+## Final Year Projects:
+-Benjamin Cook (MITM in Bluetooth)
+-Jake Shepherdson (Bluetooth Security)
+-D'Mitri Seymour (MITM in Bluetooth) 
+-Kenneth O'Brien (MITM in Bluetooth)
+-Basil Alsulaimy (PKI and Blockchain)
+-Daniel Shenfield (PKI and Blockchain)
+-Keyur Canji (PKI and Blockchain)
+-Roberto Barra (PKI and Blockchain)
+
 
 **Bold** and _Italic_ and `Code` text
 
