@@ -39,14 +39,14 @@ Master (MRes) in Information Technology, Brunel University
 - Jerica	Tolentino (Serverless Security)
 
 ## Final Year Projects:
--Benjamin Cook (MITM in Bluetooth)
--Jake Shepherdson (Bluetooth Security)
--D'Mitri Seymour (MITM in Bluetooth) 
--Kenneth O'Brien (MITM in Bluetooth)
--Basil Alsulaimy (PKI and Blockchain)
--Daniel Shenfield (PKI and Blockchain)
--Keyur Canji (PKI and Blockchain)
--Roberto Barra (PKI and Blockchain)
+- Benjamin Cook (MITM in Bluetooth)
+- Jake Shepherdson (Bluetooth Security)
+- D'Mitri Seymour (MITM in Bluetooth) 
+- Kenneth O'Brien (MITM in Bluetooth)
+- Basil Alsulaimy (PKI and Blockchain)
+- Daniel Shenfield (PKI and Blockchain)
+- Keyur Canji (PKI and Blockchain)
+- Roberto Barra (PKI and Blockchain)
 
 
 **Bold** and _Italic_ and `Code` text
