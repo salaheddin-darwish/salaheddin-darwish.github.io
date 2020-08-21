@@ -1,4 +1,4 @@
-# Summary about me
+# Summary about me ![Image](https://avatars2.githubusercontent.com/u/37536214?s=400&u=eba7657251ab1e7de4bb07260e3d064437e10e26&v=4)
 
 Cyber Security and related stuff are my passion. I am a lecturer at Information Security Group (ISG), Royal Holloway University of London. I have been teaching some modules related to cyber security such as computer and network security, access control, security protocols, data security,etc. I have been involved in different research projects tackling various topics in Blockchain and Distributed ledger technologies, wireless networks, security, IoT, privacy, risk and threats modelling.
 
@@ -38,7 +38,7 @@ Master (MRes) in Information Technology, Brunel University
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://avatars2.githubusercontent.com/u/37536214?s=400&u=eba7657251ab1e7de4bb07260e3d064437e10e26&v=4)
+[Link](url) and 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
