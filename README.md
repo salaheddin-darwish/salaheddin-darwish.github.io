@@ -47,6 +47,7 @@ Master (MRes) in Information Technology, Brunel University
 - Daniel Shenfield (PKI and Blockchain)
 - Keyur Canji (PKI and Blockchain)
 - Roberto Barra (PKI and Blockchain)
+
 # Publications
 
 ## Book Chapter
