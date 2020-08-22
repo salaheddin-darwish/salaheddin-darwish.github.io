@@ -47,3 +47,21 @@ Master (MRes) in Information Technology, Brunel University
 - Daniel Shenfield (PKI and Blockchain)
 - Keyur Canji (PKI and Blockchain)
 - Roberto Barra (PKI and Blockchain)
+# Publications
+
+## Book Chapter
+- Darwish, S., Nouretdinov, I. and Wolthusen, S., (2019): Modelling the Privacy Impact of External Knowledge for Sensor Data in the Industrial Internet of Things. In: Security and Privacy Trends in the Industrial Internet of Things, Springer, Cham, (pp. 223-243).
+
+## Journal Article
+- Williams, D., Darwish, S., Schneider, S. and Michael, D.R., (2020): Legislation-driven development of a Gift Aid system using Event-B. Formal Aspects of Computing, Springer, 32(2), pp. 251-273
+
+## Conference Paper
+- Darwish, S., Nouretdinov, I. & Wolthusen, S., (2018): A Dynamic Distributed Architecture for Preserving Privacy of Medical IoT Monitoring Measurements. In 16th International Conference on Smart Homes and Health Telematics - ICOST 2018, Singapore, Lecture Notes in Computer Science, Springer, Cham, Vol 10898 (pp. 146-157).
+
+- Nouretdinov, I., Darwish, S., & Wolthusen, S. (2018): Detection of Untrustworthy IoT Measurements Using Expert Knowledge of Their Joint Distribution In 16th International Conference on Smart Homes and Health Telematics - ICOST 2018, Singapore, Lecture Notes in Computer Science, Springer, Cham, Vol 10898 (pp. 310-316).
+
+- Darwish, S., Nouretdinov, I., Wolthusen, S. (2017): Towards Composable Threat Assessment for Medical IoT (MIoT) in The Fourth International Workshop on Privacy and Security in HealthCare 2017 (PSCare17), Lund, Sweden, Procedia Computer Science, Volume 113, 2017, (pp. 627-632).
+
+- Darwish, S., Taylor, S. J.E., & Ghinea, G. (2012): Security Server-Based Architecture for Mobile Ad hoc Networks. In Trust, Security and Privacy in Computing and Communications (TrustCom), 2012 IEEE 11th International Conference on (pp. 926-930).
+
+- Zang, Y., Thomas, J. P., Ghinea, G., Thomas, M., & Darwish, S. (2012): Secure Sector Based Bi-Path Clustering and Routing Protocol for WSNs. In Trust, Security and Privacy in Computing and Communications (TrustCom), 2012 IEEE 11th International Conference on (pp. 777-784).
