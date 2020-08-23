@@ -13,7 +13,7 @@ Cyber Security and related stuff are my passion. I am a lecturer at Information 
 # Research and Projects
 
 - **Swiftaid**  - 2018/2019 
-- **The Technology Integrated Health Management (TIHM)** - 2016/2018
+- **Tech Integrated Health Management (TIHM)** - 2016/2018
 -  **EMPHASIS** - 2015/2016.  
 
 
