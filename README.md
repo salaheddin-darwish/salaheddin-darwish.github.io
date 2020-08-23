@@ -1,14 +1,12 @@
-![Image](https://avatars2.githubusercontent.com/u/37536214?s=400&u=eba7657251ab1e7de4bb07260e3d064437e10e26&v=4)
-
 # Summary about me 
 
 Cyber Security and related stuff are my passion. I am a lecturer at Information Security Group (ISG), Royal Holloway University of London. I have been teaching some modules related to cyber security such as computer and network security, access control, security protocols, data security,etc. I have been involved in different research projects tackling various topics in Blockchain and Distributed ledger technologies, wireless networks, security, IoT, privacy, risk and threats modelling.
 
 # Education & Experience
 
-**PhD in MANETs security**, Brunel Unversity London, under supervision of **_Professor Simon Taylor_** and **_Professor George Ghinea_**.
+- **PhD in MANETs security**, Brunel Unversity London, under supervision of **_Professor Simon Taylor_** and **_Professor George Ghinea_**.
 
-**Master (MRes) in Information Technology**, Brunel University London. 
+- **Master (MRes) in Information Technology**, Brunel University London. 
 
 # Research and Projects
 
