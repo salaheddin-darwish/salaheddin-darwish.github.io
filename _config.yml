@@ -1,7 +1,8 @@
 theme: jekyll-theme-minimal
 
-title: [Dr Salaheddin Darwish]
-description: [Salah Personal Website]
+title: Dr Salaheddin Darwish
 
-logo: [https://avatars2.githubusercontent.com/u/37536214?s=400&u=eba7657251ab1e7de4bb07260e3d064437e10e26&v=4]
-show_downloads: ["false"]
+description: Salah Personal Website
+
+logo: https://avatars2.githubusercontent.com/u/37536214?s=400&u=eba7657251ab1e7de4bb07260e3d064437e10e26&v=4]
+show_downloads: "false"
