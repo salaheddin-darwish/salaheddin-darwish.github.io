@@ -6,9 +6,16 @@ Cyber Security and related stuff are my passion. I am a lecturer at Information 
 
 # Education & Experience
 
-PhD in MANETs security, Brunel Unversity London
+**PhD in MANETs security, Brunel Unversity London**, under supervision of **_Professor Simon Taylor_** and **_Professor George Ghinea_**.
 
-Master (MRes) in Information Technology, Brunel University
+**Master (MRes) in Information Technology**, Brunel University London. 
+
+# Research and Projects
+
+- **Swiftaid**  - 2018/2019 
+- **The Technology Integrated Health Management (TIHM)** - 2016/2018
+-  **EMPHASIS** - 2015/2016.  
+
 
 # Modules (teaching):  
 - IY2840 Computer and Network Security - Year2
