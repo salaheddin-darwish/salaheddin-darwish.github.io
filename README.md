@@ -1,6 +1,6 @@
 # Summary about me 
 
-Cyber Security and related stuff are my passion. I am a lecturer at Information Security Group (ISG), Royal Holloway University of London. I have been teaching some modules related to cyber security such as computer and network security, access control, security protocols, data security,etc. I have been involved in different research projects tackling various topics in Blockchain and Distributed ledger technologies, wireless networks, security, IoT, privacy, risk and threats modelling.
+Cyber Security and related stuff are my passion. I am a lecturer (assistant Professor) at Information Security Group (ISG), Royal Holloway University of London. I have been teaching some modules related to cyber security such as computer and network security, access control, security protocols, data security,etc. I have been involved in different research projects tackling various topics in Blockchain and Distributed ledger technologies, wireless networks, security, IoT, privacy, risk and threats modelling.
 
 # Education & Experience
 
