@@ -71,3 +71,7 @@ Cyber Security and related stuff are my passion. I am a lecturer (assistant Prof
 - Darwish, S., Taylor, S. J.E., & Ghinea, G. (2012): Security Server-Based Architecture for Mobile Ad hoc Networks. In Trust, Security and Privacy in Computing and Communications (TrustCom), 2012 IEEE 11th International Conference on (pp. 926-930).
 
 - Zang, Y., Thomas, J. P., Ghinea, G., Thomas, M., & Darwish, S. (2012): Secure Sector Based Bi-Path Clustering and Routing Protocol for WSNs. In Trust, Security and Privacy in Computing and Communications (TrustCom), 2012 IEEE 11th International Conference on (pp. 777-784).
+
+# Security Resources and References
+
+- https://listserv.iit.cnr.it/cgi-bin/wa?A0=security
