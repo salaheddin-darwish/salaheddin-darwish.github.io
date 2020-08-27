@@ -75,3 +75,4 @@ Cyber Security and related stuff are my passion. I am a lecturer (assistant Prof
 # Security Resources and References
 
 - [SECURITY@fosad.org](https://listserv.iit.cnr.it/cgi-bin/wa?A0=security)
+- [Web Security Academy](https://portswigger.net/web-security)
