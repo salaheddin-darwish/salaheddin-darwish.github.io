@@ -8,6 +8,10 @@ Cyber Security and related stuff are my passion. I am a lecturer (assistant Prof
 
 - **Master (MRes) in Information Technology**, Brunel University London. 
 
+- **Postgraduate Diploma (_PG-DIP) in Computer Engineering. 
+
+- **Bachelor of Engineering (BEng) in Computer Engineering.
+
 # Research and Projects
 
 - **Swiftaid**  - 2018/2019 
@@ -43,7 +47,9 @@ Cyber Security and related stuff are my passion. I am a lecturer (assistant Prof
 - Lyuli	Deng (5G and IoT) 
 - Jerica	Tolentino (Serverless Security)
 
-## Final Year Projects (2019/2020):
+## Final Year Projects: 
+
+**(2019/2020)**:
 - Benjamin Cook (MITM in Bluetooth)
 - Jake Shepherdson (Bluetooth Security)
 - D'Mitri Seymour (MITM in Bluetooth) 
@@ -52,6 +58,7 @@ Cyber Security and related stuff are my passion. I am a lecturer (assistant Prof
 - Daniel Shenfield (PKI and Blockchain)
 - Keyur Canji (PKI and Blockchain)
 - Roberto Barra (PKI and Blockchain)
+
 
 # Publications
 
