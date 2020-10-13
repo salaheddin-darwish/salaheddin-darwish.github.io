@@ -8,7 +8,7 @@ Cyber Security and related stuff are my passion. I am a lecturer (assistant Prof
 
 - **Master (MRes) in Information Technology**, Brunel University London. 
 
-- **Postgraduate Diploma (_PG-DIP) in Computer Engineering**. 
+- **Postgraduate Diploma (PG-DIP) in Computer Engineering**. 
 
 - **Bachelor of Engineering (BEng) in Computer Engineering**.
 
