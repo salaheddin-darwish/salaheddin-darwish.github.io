@@ -69,6 +69,9 @@ Cyber Security and related stuff are my passion. I am a lecturer (assistant Prof
 
 # Publications
 
+## My PhD Thesis 
+- [A Simulation-based Methodology for the Assessment of Server-based Security Architectures for Mobile Ad Hoc Networks (MANETs)](https://bura.brunel.ac.uk/handle/2438/13823)
+
 ## Book Chapter
 - Darwish, S., Nouretdinov, I. and Wolthusen, S., (2019): Modelling the Privacy Impact of External Knowledge for Sensor Data in the Industrial Internet of Things. In: Security and Privacy Trends in the Industrial Internet of Things, Springer, Cham, (pp. 223-243).
 
