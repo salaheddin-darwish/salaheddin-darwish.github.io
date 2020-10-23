@@ -18,6 +18,13 @@ Cyber Security and related stuff are my passion. I am a lecturer (assistant Prof
 - **Tech Integrated Health Management (TIHM)** - 2016/2018
 -  **EMPHASIS** - 2015/2016.  
 
+# Professional Activities and Membership 
+- **Program Committee for ICTH 2019 and ICTH 2020** 
+- **Reviewer for Journal of Theoretical and Applied Electronic Commerce Research** 
+
+- **IEEE, IEEE Communications Society and IEEE Computer Society Member** 
+- **Associate Fellowship in Higher Education (AFHEA), Higher Education Academy**
+
 
 # Modules (teaching):  
 - IY2840 Computer and Network Security - Year2
@@ -78,6 +85,8 @@ Cyber Security and related stuff are my passion. I am a lecturer (assistant Prof
 - Darwish, S., Taylor, S. J.E., & Ghinea, G. (2012): Security Server-Based Architecture for Mobile Ad hoc Networks. In Trust, Security and Privacy in Computing and Communications (TrustCom), 2012 IEEE 11th International Conference on (pp. 926-930).
 
 - Zang, Y., Thomas, J. P., Ghinea, G., Thomas, M., & Darwish, S. (2012): Secure Sector Based Bi-Path Clustering and Routing Protocol for WSNs. In Trust, Security and Privacy in Computing and Communications (TrustCom), 2012 IEEE 11th International Conference on (pp. 777-784).
+
+
 
 # Security Resources and References
 
