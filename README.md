@@ -76,7 +76,7 @@ Cyber Security and related stuff are my passion. I am a lecturer (assistant Prof
 - Darwish, S., Nouretdinov, I. and Wolthusen, S., (2019): Modelling the Privacy Impact of External Knowledge for Sensor Data in the Industrial Internet of Things. In: Security and Privacy Trends in the Industrial Internet of Things, Springer, Cham, (pp. 223-243).[Link](https://link.springer.com/chapter/10.1007%2F978-3-030-12330-7_11)
 
 ## Journal Article
-- Williams, D., Darwish, S., Schneider, S. and Michael, D.R., (2020): Legislation-driven development of a Gift Aid system using Event-B. Formal Aspects of Computing, Springer, 32(2), pp. 251-273. [Link](https://doi.org/10.1007/s00165-020-00512-5_
+- Williams, D., Darwish, S., Schneider, S. and Michael, D.R., (2020): Legislation-driven development of a Gift Aid system using Event-B. Formal Aspects of Computing, Springer, 32(2), pp. 251-273. [Link](https://doi.org/10.1007/s00165-020-00512-5)
 
 ## Conference Paper
 - Darwish, S., Nouretdinov, I. & Wolthusen, S., (2018): A Dynamic Distributed Architecture for Preserving Privacy of Medical IoT Monitoring Measurements. In 16th International Conference on Smart Homes and Health Telematics - ICOST 2018, Singapore, Lecture Notes in Computer Science, Springer, Cham, Vol 10898 (pp. 146-157).
