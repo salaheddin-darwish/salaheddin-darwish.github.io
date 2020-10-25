@@ -96,7 +96,7 @@ Cyber Security and related stuff are my passion. I am a lecturer (assistant Prof
 - [SECURITY@fosad.org](https://listserv.iit.cnr.it/cgi-bin/wa?A0=security)
 - [Web Security Academy](https://portswigger.net/web-security)
 - [Hack the Box](https://www.hackthebox.eu/)
-- [Prof Bill Buchanan security site] (https://www.asecuritysite.com/)
+- [Prof Bill Buchanan security site](https://www.asecuritysite.com/)
 
 # IoT Resources and Tutorial
 - [IoT Tutorial for Beginners](https://data-flair.training/blogs/iot-tutorial/)
