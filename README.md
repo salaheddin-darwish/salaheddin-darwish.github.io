@@ -20,8 +20,6 @@ Cyber Security and related stuff are my passion. I am a lecturer (assistant Prof
 
 # Professional Activities and Membership 
 - **Program Committee for ICTH 2019 and ICTH 2020** 
-- **Reviewer for Journal of Theoretical and Applied Electronic Commerce Research** 
-
 - **IEEE, IEEE Communications Society and IEEE Computer Society Member** 
 - **Associate Fellowship in Higher Education (AFHEA), Higher Education Academy**
 
