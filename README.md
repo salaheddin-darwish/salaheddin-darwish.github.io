@@ -48,9 +48,17 @@ Cyber Security and related stuff are my passion. I am a lecturer (assistant Prof
 - Kashika Jogiani (IoT malware)
 - Ojimaojo (Michael) Baba (IA and IDS)
 - Viqar Ahmad (Security in SDN) 
-- Anis	Ahmed (phishing) 
+- Anis Ahmed (phishing) 
 - Lyuli	Deng (5G and IoT) 
-- Jerica	Tolentino (Serverless Security)
+- Jerica Tolentino (Serverless Security)
+- Joshua Kwendo (Single sign-on -SSO evalution approach - a Distant Learning project)
+- Biji Scaria (IoT security implications - Distant learning project) 
+
+**2020/2021**
+- William Bathgate (Threat Surface and dependancy in smarthomes - a Distant Learning project)
+- Sudeep kutty (Risk scorecard for enterprises - a Distant Learning project)
+- Bernard Borg (CoAP security- a Distant Learning project)
+- Luke Grad (Blockchain and supplychain - a Distant Learning project)
 
 ## Final Year Projects: 
 
