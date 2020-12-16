@@ -4,7 +4,7 @@ Cyber Security and related stuff are my passion. I am a lecturer (assistant Prof
 
 # Education & Experience
 
-- **PhD in MANETs security**, Brunel University London, under supervision of **_Professor Simon Taylor_** and **_Professor George Ghinea_**.
+- **PhD in MANETs security**, Brunel University London, under supervision of [**_Professor Simon Taylor_**](https://www.brunel.ac.uk/people/simon-taylor) and [**_Professor George Ghinea_**](https://www.brunel.ac.uk/people/george-ghinea).
 
 - **Master (MRes) in Information Technology**, Brunel University London. 
 
@@ -111,3 +111,6 @@ Cyber Security and related stuff are my passion. I am a lecturer (assistant Prof
 
 # IoT Resources and Tutorial
 - [IoT Tutorial for Beginners](https://data-flair.training/blogs/iot-tutorial/)
+
+# Employability:
+- [60 Cybersecurity Interview Questions](https://danielmiessler.com/study/infosec_interview_questions/)
