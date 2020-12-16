@@ -48,7 +48,7 @@ Cyber Security and related stuff are my passion. I am a lecturer (assistant Prof
 - Kashika Jogiani (IoT malware)
 - Ojimaojo (Michael) Baba (IA and IDS)
 - Viqar Ahmad (Security in SDN) 
-- Anis	Ahmed (Fishing) 
+- Anis	Ahmed (phishing) 
 - Lyuli	Deng (5G and IoT) 
 - Jerica	Tolentino (Serverless Security)
 
@@ -63,6 +63,11 @@ Cyber Security and related stuff are my passion. I am a lecturer (assistant Prof
 - Daniel Shenfield (PKI and Blockchain)
 - Keyur Canji (PKI and Blockchain)
 - Roberto Barra (PKI and Blockchain)
+
+**(2020/2021)**:
+- Petr Stroganov (Auditing system using Blockchain)
+- Haris Rabbani (MITM in Bluetooth)
+- Samuel Harper (MITM in Bluetooth) 
 
 
 # Publications
