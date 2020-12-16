@@ -40,7 +40,7 @@ Cyber Security and related stuff are my passion. I am a lecturer (assistant Prof
 - Mouhamed.Kennou (Traffic security system) 
 - Chandrashekar Narayana (Privacy and Blockchain)
 - Ramin Miakheyl (Autonomous Vehicles Security)
-- Harish Pillai	(Secrity of IoT and Testing)
+- Harish Pillai	(Security of IoT and Testing)
 - Tianshu Gao  (Privacy - GDPR)
 - Ragish ShanmughamRevathy (Privacy and Security of healthcare systems) 
 
