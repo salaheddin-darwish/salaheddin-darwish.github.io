@@ -112,5 +112,5 @@ Cyber Security and related stuff are my passion. I am a lecturer (assistant Prof
 # IoT Resources and Tutorial
 - [IoT Tutorial for Beginners](https://data-flair.training/blogs/iot-tutorial/)
 
-# Employability:
+# Employability
 - [60 Cybersecurity Interview Questions](https://danielmiessler.com/study/infosec_interview_questions/)
