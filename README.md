@@ -110,6 +110,7 @@ Cyber Security and related stuff are my passion. I am a lecturer (assistant Prof
 - [Prof Bill Buchanan security site](https://www.asecuritysite.com/)
 - [Try Hack me](https://tryhackme.com/)
 - [Red Team](https://www.hackingarticles.in/red-teaming/)
+-[Web Penetration Testing](https://www.hackingarticles.in/web-penetration-testing/) 
 
 # IoT Resources and Tutorial
 - [IoT Tutorial for Beginners](https://data-flair.training/blogs/iot-tutorial/)
