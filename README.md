@@ -22,7 +22,7 @@ Cyber Security and related stuff are my passion. I am a lecturer (assistant Prof
 - **Program Committee for ICTH 2019 and ICTH 2020** 
 - **IEEE, IEEE Communications Society and IEEE Computer Society Member** 
 - **Associate Fellowship in Higher Education (AFHEA), Higher Education Academy**
-- **IEEE Communications Standards Magazine reviewer**
+- **IEEE Communications Standards Magazine Reviewer**
 
 
 # Modules (teaching):  
