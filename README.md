@@ -26,8 +26,8 @@ Cyber Security and related stuff are my passion. I am a lecturer (assistant Prof
 
 
 # Modules (teaching):  
-- IY2840 Computer and Network Security - Year2
-- IY2760 Introduction to Information Security - Year2
+- IY2840 Computer and Network Security - BSc(Year2)
+- IY2760 Introduction to Information Security - BSc(Year2)
 - IY5607 Software Security - MSc
 - IY5511 Network Security - MSc
 
