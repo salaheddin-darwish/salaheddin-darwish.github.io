@@ -95,7 +95,7 @@ Cyber Security and related stuff are my passion. I am a lecturer (assistant Prof
 
 - Nouretdinov, I., Darwish, S., & Wolthusen, S. (2018): Detection of Untrustworthy IoT Measurements Using Expert Knowledge of Their Joint Distribution In 16th International Conference on Smart Homes and Health Telematics - ICOST 2018, Singapore, Lecture Notes in Computer Science, Springer, Cham, Vol 10898 (pp. 310-316).
 
-- Darwish, S., Nouretdinov, I., Wolthusen, S. (2017): Towards Composable Threat Assessment for Medical IoT (MIoT) in The Fourth International Workshop on Privacy and Security in HealthCare 2017 (PSCare17), Lund, Sweden, Procedia Computer Science, Volume 113, 2017, (pp. 627-632).
+- Darwish, S., Nouretdinov, I., Wolthusen, S. (2017): Towards Composable Threat Assessment for Medical IoT (MIoT) in The Fourth International Workshop on Privacy and Security in HealthCare 2017 (PSCare17), Lund, Sweden, Procedia Computer Science, Volume 113, 2017, (pp. 627-632). [Conference Slides] (/PSCare2017-Presentation.pdf)
 
 - Darwish, S., Taylor, S. J.E., & Ghinea, G. (2012): Security Server-Based Architecture for Mobile Ad hoc Networks. In Trust, Security and Privacy in Computing and Communications (TrustCom), 2012 IEEE 11th International Conference on (pp. 926-930).
 
