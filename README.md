@@ -37,46 +37,65 @@ Cyber Security matters is my passion. I am a lecturer (assistant Professor) at I
 
 **2018/2019**
 
-- Mahmood Faraz (Secure IoT deployement) 
-- Mouhamed.Kennou (Traffic security system) 
-- Chandrashekar Narayana (Privacy and Blockchain)
-- Ramin Miakheyl (Autonomous Vehicles Security)
-- Harish Pillai	(Security of IoT and Testing)
+- Mahmood Faraz (Secure IoT deployement) - Completed!
+- Mouhamed.Kennou (Traffic security system) - Completed!
+- Chandrashekar Narayana (Privacy and Blockchain) - Completed!
+- Ramin Miakheyl (Autonomous Vehicles Security) - Completed!
+- Harish Pillai	(Security of IoT and Testing) - Completed!
 - Tianshu Gao  (Privacy - GDPR)
-- Ragish ShanmughamRevathy (Privacy and Security of healthcare systems) 
+- Ragish ShanmughamRevathy (Privacy and Security of healthcare systems) - Completed!
 
 **2019/2020**
-- Kashika Jogiani (IoT malware)
-- Ojimaojo (Michael) Baba (IA and IDS)
-- Viqar Ahmad (Security in SDN) 
-- Anis Ahmed (phishing) 
-- Lyuli	Deng (5G and IoT) 
-- Jerica Tolentino (Serverless Security)
-- Joshua Kwendo (Single sign-on -SSO evalution approach - a Distant Learning project)
-- Biji Scaria (IoT security implications - Distant learning project) 
+- Kashika Jogiani (IoT malware) - Completed!
+- Ojimaojo (Michael) Baba (IA and IDS) - Completed!
+- Viqar Ahmad (Bio-inspired Security) - In Progress!
+- Anis Ahmed (phishing) - Completed! 
+- Lyuli	Deng (5G and IoT) - Completed!
+- Jerica Tolentino (Serverless Security) - Completed!
+- Joshua Kwendo (Single sign-on -SSO evalution approach - a Distant Learning project) - Completed!
+- Biji Scaria (IoT security implications - Distant learning project) - Completed!
 
 **2020/2021**
 - William Bathgate (Threat Surface and dependancy in smarthomes - a Distant Learning project)
-- Sudeep kutty (Risk scorecard for enterprises - a Distant Learning project)
-- Bernard Borg (CoAP security- a Distant Learning project)
-- Luke Grad (Blockchain and supplychain - a Distant Learning project)
+- Bernard Borg (CoAP security- a Distant Learning project) - Completed!
+- Keerthana	Marimuthu (Cloud security) - Completed!  
+- Vidka	Modinkova (Smart Home Security) - Completed! 
+- Hryhoriy	Vashchuk (Security Challenges of the IIoT & Blockchain Integration) - Completed! 
+- Edward Armstrong (An Analysis of the Security of Vehicular Keyless Entry Systems) - Completed!
+
+- Sudeep kutty (Risk scorecard for enterprises - a Distant Learning project) - In Progress!
+- Luke Grad (Blockchain and supplychain - a Distant Learning project) - In Progress!
+- Ruth	Asiamah (Security and Privacy challenges in Cashless Society) In Progress!
+- Lili	Lin (Malware detection in Andriod - machine learning) - In Progress! 
+- Saifullah	Qayoomi (Security Implications of Blutooth Enabled Smart Home Devices) - In Progress!
+
+
+**2021/2022**
 
 ## Final Year Projects: 
 
 **(2019/2020)**:
-- Benjamin Cook (MITM in Bluetooth)
-- Jake Shepherdson (Bluetooth Security)
-- D'Mitri Seymour (MITM in Bluetooth) 
-- Kenneth O'Brien (MITM in Bluetooth)
-- Basil Alsulaimy (PKI and Blockchain)
-- Daniel Shenfield (PKI and Blockchain)
-- Keyur Canji (PKI and Blockchain)
-- Roberto Barra (PKI and Blockchain)
+- Benjamin Cook (MITM in Bluetooth) - Completed!
+- Jake Shepherdson (Bluetooth Security) - Completed!
+- D'Mitri Seymour (MITM in Bluetooth) - Completed!
+- Kenneth O'Brien (MITM in Bluetooth) - Completed!
+- Basil Alsulaimy (PKI and Blockchain) - Completed!
+- Daniel Shenfield (PKI and Blockchain)  - Completed!
+- Keyur Canji (PKI and Blockchain)  - Completed!
+- Roberto Barra (PKI and Blockchain) - Completed!
 
 **(2020/2021)**:
-- Petr Stroganov (Auditing system using Blockchain)
-- Haris Rabbani (MITM in Bluetooth)
-- Samuel Harper (MITM in Bluetooth) 
+- Petr Stroganov (Auditing system using Blockchain)  - Completed!
+- Haris Rabbani (MITM in Bluetooth)  - Completed!
+- Samuel Harper (MITM in Bluetooth)  - Completed!
+
+**(2021/2022)**:
+
+- Edward Easen (Anti-Sandboxing analysis) - In Progress!
+- Nasser Al-Abdulla (Malware detection - reverse engineering and machine learning) - In Progress! 
+- Zaynah LatifBluetooth Security (Man In The Middle attack in a pressure monitor) - In Progress!  
+- Benjamin Hamer (Bluetooth Security - MITM attacks in Oximeter and Fitbit) - In Progress!
+- David Akinsanya (IoT log-based or auditing system using blockchain) - In Progress!
 
 
 # Publications
