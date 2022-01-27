@@ -56,7 +56,7 @@ Cyber Security matters is my passion. I am a lecturer (assistant Professor) at I
 - Biji Scaria (IoT security implications - Distant learning project) - Completed!
 
 **2020/2021**
-- William Bathgate (Threat Surface and dependancy in smarthomes - a Distant Learning project)
+- William Bathgate (Threat Surface and dependancy in smarthomes - a Distant Learning project) - Completed!
 - Bernard Borg (CoAP security- a Distant Learning project) - Completed!
 - Keerthana	Marimuthu (Cloud security) - Completed!  
 - Vidka	Modinkova (Smart Home Security) - Completed! 
@@ -68,6 +68,16 @@ Cyber Security matters is my passion. I am a lecturer (assistant Professor) at I
 - Ruth	Asiamah (Security and Privacy challenges in Cashless Society) In Progress!
 - Lili	Lin (Malware detection in Andriod - machine learning) - In Progress! 
 - Saifullah	Qayoomi (Security Implications of Blutooth Enabled Smart Home Devices) - In Progress!
+
+
+- Yousra Kassaoui (Honeypot using Raspberry Pi) - In Progress!
+- Varun Gopalakrishnan (Security in the aviation systems) - In Progress!
+- Laiba Noor (Cloud Security Services with AWS Tools) - In Progress!
+- Ismail Shaikh (Bluetooth Security) -  In Progress!
+- Morgan Carter (Cloud security) - In Progress!
+- Yashwanth Guduru (IoT, IAM & Container Security) - In Progress!
+- Chaman Rana (Zero Trust) - In Progress! 
+- Muhammad Ali (Phishing) - In Progress!
 
 
 **2021/2022**
