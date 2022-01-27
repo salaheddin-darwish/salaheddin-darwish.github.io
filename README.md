@@ -108,7 +108,7 @@ Cyber Security matters is my passion. I am a lecturer (assistant Professor) at I
 - David Akinsanya (IoT log-based or auditing system using blockchain) - In Progress!
 
 
-# Publications
+# Publications [Google Scholar](https://scholar.google.co.uk/citations?user=SQbKoDAAAAAJ&hl=en)
 
 ## My PhD Thesis 
 - [A Simulation-based Methodology for the Assessment of Server-based Security Architectures for Mobile Ad Hoc Networks (MANETs)](https://bura.brunel.ac.uk/handle/2438/13823)
