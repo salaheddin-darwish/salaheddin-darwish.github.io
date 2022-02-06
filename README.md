@@ -33,7 +33,7 @@ Cyber Security matters is my passion. I am a lecturer (assistant Professor) at I
 
 # Student Supervision 
 
-## MSc projects:
+## MSc Projects:
 
 **2018/2019**
 
@@ -82,7 +82,7 @@ Cyber Security matters is my passion. I am a lecturer (assistant Professor) at I
 
 **2021/2022**
 
-## Final Year Projects: 
+## Final BSc Year Projects: 
 
 **(2019/2020)**:
 - Benjamin Cook (MITM in Bluetooth) - Completed!
