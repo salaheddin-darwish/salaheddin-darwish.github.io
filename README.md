@@ -36,13 +36,12 @@ Cyber Security matters is my passion. I am a lecturer (assistant Professor) at I
 ## MSc Projects:
 
 **2018/2019**
-
 - Mahmood Faraz (Secure IoT deployement) - Completed!
 - Mouhamed.Kennou (Traffic security system) - Completed!
 - Chandrashekar Narayana (Privacy and Blockchain) - Completed!
 - Ramin Miakheyl (Autonomous Vehicles Security) - Completed!
-- Harish Pillai	(Security of IoT and Testing) - Completed!
-- Tianshu Gao  (Privacy - GDPR)
+- Harish Pillai (Security of IoT and Testing) - Completed!
+- Tianshu Gao (Privacy - GDPR)
 - Ragish ShanmughamRevathy (Privacy and Security of healthcare systems) - Completed!
 
 **2019/2020**
@@ -60,7 +59,7 @@ Cyber Security matters is my passion. I am a lecturer (assistant Professor) at I
 - Bernard Borg (CoAP security- a Distant Learning project) - Completed!
 - Keerthana	Marimuthu (Cloud security) - Completed!  
 - Vidka	Modinkova (Smart Home Security) - Completed! 
-- Hryhoriy	Vashchuk (Security Challenges of the IIoT & Blockchain Integration) - Completed! 
+- Hryhoriy Vashchuk (Security Challenges of the IIoT & Blockchain Integration) - Completed! 
 - Edward Armstrong (An Analysis of the Security of Vehicular Keyless Entry Systems) - Completed!
 
 - Sudeep kutty (Risk scorecard for enterprises - a Distant Learning project) - In Progress!
@@ -70,10 +69,10 @@ Cyber Security matters is my passion. I am a lecturer (assistant Professor) at I
 - Saifullah	Qayoomi (Security Implications of Blutooth Enabled Smart Home Devices) - In Progress!
 
 
-- Yousra Kassaoui (Honeypot using Raspberry Pi) - In Progress!
-- Varun Gopalakrishnan (Security in the aviation systems) - In Progress!
+- Yousra Kassaoui (Honeypot using Raspberry Pi) - Completed!
+- Varun Gopalakrishnan (Security in the aviation systems) - Completed!
 - Laiba Noor (Cloud Security Services with AWS Tools) - In Progress!
-- Ismail Shaikh (Bluetooth Security) -  In Progress!
+- Ismail Shaikh (Bluetooth Security) - Completed!
 - Morgan Carter (Cloud security) - In Progress!
 - Yashwanth Guduru (IoT, IAM & Container Security) - In Progress!
 - Chaman Rana (Zero Trust) - In Progress! 
