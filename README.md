@@ -1,6 +1,6 @@
 # Summary about me 
 
-Cyber Security matters is my passion. I am a lecturer (assistant Professor) at Information Security Group (ISG), Royal Holloway University of London. I have been teaching some modules related to cyber security such as computer and network security, access control, security protocols, data security,etc. I have been involved in different research projects tackling various topics in Blockchain and Distributed ledger technologies, wireless networks, security, IoT, privacy, risk and threats modelling.
+Cyber Security matters is my passion. I am workin a senior cyber and information security risk analyst at IT services, Royal Holloway University of London. Also I am a lecturer (assistant Professor) at Information Security Group (ISG)  where I have taught  a number of modules related to cyber security such as computer and network security, access control, security protocols, data security,etc. I have been involved in different research projects tackling various topics in Blockchain and Distributed ledger technologies, wireless networks, security, IoT, privacy, risk and threats modelling.
 
 # Education & Experience
 
@@ -47,7 +47,7 @@ Cyber Security matters is my passion. I am a lecturer (assistant Professor) at I
 **2019/2020**
 - Kashika Jogiani (IoT malware) - Completed!
 - Ojimaojo (Michael) Baba (IA and IDS) - Completed!
-- Viqar Ahmad (Bio-inspired Security) - In Progress!
+- Viqar Ahmad (Bio-inspired Security) - Completed!
 - Anis Ahmed (phishing) - Completed! 
 - Lyuli	Deng (5G and IoT) - Completed!
 - Jerica Tolentino (Serverless Security) - Completed!
@@ -62,8 +62,8 @@ Cyber Security matters is my passion. I am a lecturer (assistant Professor) at I
 - Hryhoriy Vashchuk (Security Challenges of the IIoT & Blockchain Integration) - Completed! 
 - Edward Armstrong (An Analysis of the Security of Vehicular Keyless Entry Systems) - Completed!
 
-- Sudeep kutty (Risk scorecard for enterprises - a Distant Learning project) - In Progress!
-- Luke Grad (Blockchain and supplychain - a Distant Learning project) - In Progress!
+- Sudeep kutty (Risk scorecard for enterprises - a Distant Learning project) - Completed!
+- Luke Grad (Blockchain and supplychain - a Distant Learning project) - Completed!
 - Ruth	Asiamah (Security and Privacy challenges in Cashless Society) In Progress!
 - Lili	Lin (Malware detection in Andriod - machine learning) - In Progress! 
 - Saifullah	Qayoomi (Security Implications of Blutooth Enabled Smart Home Devices) - In Progress!
@@ -100,10 +100,10 @@ Cyber Security matters is my passion. I am a lecturer (assistant Professor) at I
 
 **(2021/2022)**:
 
-- Edward Easen (Anti-Sandboxing analysis) - In Progress!
+- Edward Easen (Anti-Sandboxing analysis) - Completed!
 - Nasser Al-Abdulla (Malware detection - reverse engineering and machine learning) - In Progress! 
 - Zaynah LatifBluetooth Security (Man In The Middle attack in a pressure monitor) - In Progress!  
-- Benjamin Hamer (Bluetooth Security - MITM attacks in Oximeter and Fitbit) - In Progress!
+- Benjamin Hamer (Bluetooth Security - MITM attacks in Oximeter and Fitbit) - Completed!
 - David Akinsanya (IoT log-based or auditing system using blockchain) - In Progress!
 
 
