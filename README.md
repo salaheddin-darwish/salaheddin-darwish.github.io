@@ -1,6 +1,6 @@
 # Summary about me 
 
-Cyber Security matters is my passion. I am workin a senior cyber and information security risk analyst at IT services, Royal Holloway University of London. Also I am a lecturer (assistant Professor) at Information Security Group (ISG)  where I have taught  a number of modules related to cyber security such as computer and network security, access control, security protocols, data security,etc. I have been involved in different research projects tackling various topics in Blockchain and Distributed ledger technologies, wireless networks, security, IoT, privacy, risk and threats modelling.
+Cyber Security matters is my passion. I am working as a senior cyber and information security risk analyst at IT services, Royal Holloway University of London. Also I am a lecturer (assistant Professor) at Information Security Group (ISG)  where I have taught  a number of modules related to cyber security such as computer and network security, access control, security protocols, data security,etc. I have been involved in different research projects tackling various topics in Blockchain and Distributed ledger technologies, wireless networks, security, IoT, privacy, risk and threats modelling.
 
 # Education & Experience
 
