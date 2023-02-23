@@ -64,22 +64,29 @@ Cyber Security matters is my passion. I am working as a senior cyber and informa
 
 - Sudeep kutty (Risk scorecard for enterprises - a Distant Learning project) - Completed!
 - Luke Grad (Blockchain and supplychain - a Distant Learning project) - Completed!
-- Ruth	Asiamah (Security and Privacy challenges in Cashless Society) In Progress!
-- Lili	Lin (Malware detection in Andriod - machine learning) - In Progress! 
-- Saifullah	Qayoomi (Security Implications of Blutooth Enabled Smart Home Devices) - In Progress!
+- Ruth Asiamah (Security and Privacy challenges in Cashless Society)
+- Lili	Lin (Malware detection in Andriod - machine learning) - Completed! 
+- Saifullah	Qayoomi (Security Implications of Blutooth Enabled Smart Home Devices) !
 
 
 - Yousra Kassaoui (Honeypot using Raspberry Pi) - Completed!
 - Varun Gopalakrishnan (Security in the aviation systems) - Completed!
-- Laiba Noor (Cloud Security Services with AWS Tools) - In Progress!
+- Laiba Noor (Cloud Security Services with AWS Tools) 
 - Ismail Shaikh (Bluetooth Security) - Completed!
-- Morgan Carter (Cloud security) - In Progress!
-- Yashwanth Guduru (IoT, IAM & Container Security) - In Progress!
-- Chaman Rana (Zero Trust) - In Progress! 
-- Muhammad Ali (Phishing) - In Progress!
+- Morgan Carter (Cloud security) 
+- Yashwanth Guduru (IoT, IAM & Container Security) 
+- Chaman Rana (Zero Trust)
+- Muhammad Ali (Phishing)
 
 
 **2021/2022**
+- Thibaut Guillaume Flochon (SEIM rules)
+- Josue Ogando Bichara (Security of MS365 messaging systems)
+
+**2021/2023**
+- Steve Kawandami (NHS Security tool sets)
+- Naji Nujumi (Cloud Security)
+
 
 ## Final BSc Year Projects: 
 
@@ -101,10 +108,10 @@ Cyber Security matters is my passion. I am working as a senior cyber and informa
 **(2021/2022)**:
 
 - Edward Easen (Anti-Sandboxing analysis) - Completed!
-- Nasser Al-Abdulla (Malware detection - reverse engineering and machine learning) - In Progress! 
-- Zaynah LatifBluetooth Security (Man In The Middle attack in a pressure monitor) - In Progress!  
+- Nasser Al-Abdulla (Malware detection - reverse engineering and machine learning) - Completed! 
+- Zaynah Latif (Bluetooth Security, Man In The Middle attack in a pressure monitor) - Completed!  
 - Benjamin Hamer (Bluetooth Security - MITM attacks in Oximeter and Fitbit) - Completed!
-- David Akinsanya (IoT log-based or auditing system using blockchain) - In Progress!
+- David Akinsanya (IoT log-based or auditing system using blockchain)
 
 
 # Publications [Google Scholar](https://scholar.google.co.uk/citations?user=SQbKoDAAAAAJ&hl=en)
@@ -140,6 +147,7 @@ Cyber Security matters is my passion. I am working as a senior cyber and informa
 - [Try Hack me](https://tryhackme.com/)
 - [Red Team](https://www.hackingarticles.in/red-teaming/)
 - [Web Penetration Testing](https://www.hackingarticles.in/web-penetration-testing/) 
+- [DARKNET DIARIES](https://darknetdiaries.com)
 
 # IoT Resources and Tutorial
 - [IoT Tutorial for Beginners](https://data-flair.training/blogs/iot-tutorial/)
