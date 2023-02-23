@@ -41,7 +41,7 @@ Cyber Security matters is my passion. I am working as a senior cyber and informa
 - Chandrashekar Narayana (Privacy and Blockchain) - Completed!
 - Ramin Miakheyl (Autonomous Vehicles Security) - Completed!
 - Harish Pillai (Security of IoT and Testing) - Completed!
-- Tianshu Gao (Privacy - GDPR)
+- Tianshu Gao (Privacy - GDPR) - Completed!
 - Ragish ShanmughamRevathy (Privacy and Security of healthcare systems) - Completed!
 
 **2019/2020**
