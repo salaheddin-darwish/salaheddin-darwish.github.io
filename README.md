@@ -83,7 +83,7 @@ Cyber Security matters is my passion. I am working as a senior cyber and informa
 - Thibaut Guillaume Flochon (SEIM rules)
 - Josue Ogando Bichara (Security of MS365 messaging systems)
 
-**2021/2023**
+**2022/2023**
 - Steve Kawandami (NHS Security tool sets)
 - Naji Nujumi (Cloud Security)
 
