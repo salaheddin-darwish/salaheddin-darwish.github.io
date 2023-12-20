@@ -80,13 +80,17 @@ Cyber Security matters is my passion. I am working as a senior cyber and informa
 
 
 **2021/2022**
-- Thibaut Guillaume Flochon (SIEM rules)
-- Josue Ogando (Security of MS365 messaging systems)
+- Thibaut Guillaume Flochon (SIEM rules)- Completed!
+- Josue Ogando (Security of MS365 messaging systems) - Completed!
 
 **2022/2023**
-- Steve Kawandami (NHS Security tool sets)
+- Steve Kawandami (NHS Security tool sets) - Completed!
 - Naji Nujumi (Cloud Security)
 
+**2023/2024**
+- Joseph Cullen (Risk-based role management in IAM)
+- Gonçalo Africano (OT Security)
+- Shaji Kaniyarikkal (SIEM and AI)
 
 ## Final BSc Year Projects: 
 
