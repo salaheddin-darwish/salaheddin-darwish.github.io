@@ -88,7 +88,7 @@ Cyber Security matters is my passion. I am working as a senior cyber and informa
 - Naji Nujumi (Cloud Security)
 
 **2023/2024**
-- Joseph Cullen (Risk-based role management in IAM)
+- Joseph Cullen (Risk-based role management in IAM) - Completed!
 - Gonçalo Africano (OT Security)
 - Shaji Kaniyarikkal (SIEM and AI)
 
@@ -149,6 +149,9 @@ Cyber Security matters is my passion. I am working as a senior cyber and informa
 - [Hack the Box](https://www.hackthebox.eu/)
 - [Prof Bill Buchanan security site](https://asecuritysite.com/)
 - [Try Hack me](https://tryhackme.com/)
+- [Try2Hack](https://try2hack.me/)
+- [EchoCTF](https://echoctf.red/)
+- [Certified Secure](https://www.certifiedsecure.com/)
 - [Red Team](https://www.hackingarticles.in/red-teaming/)
 - [Web Penetration Testing](https://www.hackingarticles.in/web-penetration-testing/) 
 - [DARKNET DIARIES](https://darknetdiaries.com)
