@@ -152,8 +152,11 @@ Cyber Security matters is my passion. I am working as a senior cyber and informa
 - [Try2Hack](https://try2hack.me/)
 - [EchoCTF](https://echoctf.red/)
 - [Certified Secure](https://www.certifiedsecure.com/)
-- [Red Team](https://www.hackingarticles.in/red-teaming/)
-- [Web Penetration Testing](https://www.hackingarticles.in/web-penetration-testing/) 
+- [Root me](https://www.root-me.org/))
+- [VulnHub](https://www.vulnhub.com/)
+- [Pentester Lab](https://pentesterlab.com/)
+- [Lets Defend](https://www.letsdefend.io/)
+- [Security Blue Team](https://www.securityblue.team/)
 - [DARKNET DIARIES](https://darknetdiaries.com)
 
 # IoT Resources and Tutorial
