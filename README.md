@@ -1,6 +1,8 @@
 # Summary about me 
 
-Cyber Security matters is my passion. I am working as a senior cyber and information security risk analyst at IT services, Royal Holloway University of London. Also I am a lecturer (assistant Professor) at Information Security Group (ISG)  where I have taught  a number of modules related to cyber security such as computer and network security, access control, security protocols, data security,etc. I have been involved in different research projects tackling various topics in Blockchain and Distributed ledger technologies, wireless networks, security, IoT, privacy, risk and threats modelling.
+Cybersecurity is my passion, and I am dedicated to advancing the field through both professional practice and academic instruction. I currently work as a Senior Cyber and Information Security Risk Analyst at IT Services, Royal Holloway, University of London. Additionally, I am an Assistant Professor at the Information Security Group (ISG), where I have the privilege of teaching a variety of cybersecurity modules, including Computer and Network Security, Access Control, Security Protocols, and Data Security including supervising MSc projects.
+
+My research interests are diverse and encompass cutting-edge areas such as Blockchain and Distributed Ledger Technologies, Wireless Networks, IoT Security, Privacy, and Risk and Threats Modelling. Over the years, I have contributed to numerous research projects that explore these topics, continually pushing the boundaries of what is possible in cybersecurity.
 
 # Education & Experience
 
@@ -19,7 +21,7 @@ Cyber Security matters is my passion. I am working as a senior cyber and informa
 -  **EMPHASIS** - 2015/2016.  
 
 # Professional Activities and Membership 
-- **Program Committee for ICTH 2019, 2020, 2021, 2022 and 2024** 
+- **Program Committee Member for Conference ICTH 2019, 2020, 2021, 2022 and 2024** 
 - **IEEE, IEEE Communications Society and IEEE Computer Society Member** 
 - **Associate Fellowship in Higher Education (AFHEA), Higher Education Academy**
 - **IEEE Communications Standards Magazine Reviewer**
