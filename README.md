@@ -165,4 +165,4 @@ My research interests are diverse and encompass cutting-edge areas such as Block
 - [IoT Tutorial for Beginners](https://data-flair.training/blogs/iot-tutorial/)
 
 # Employability
-- [60 Cybersecurity Interview Questions](https://danielmiessler.com/study/infosec_interview_questions/)
+- [60 Cybersecurity Interview Questions](https://danielmiessler.com/p/infosec-interview-questions)
