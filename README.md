@@ -1,6 +1,6 @@
 # Summary about me 
 
-Cybersecurity is my passion, and I am dedicated to advancing the field through both professional practice and academic instruction. I currently work as a Senior Cyber and Information Security Risk Analyst at IT Services, Royal Holloway, University of London. Additionally, I am an Assistant Professor at the Information Security Group (ISG), where I have the privilege of teaching a variety of cybersecurity modules, including Computer and Network Security, Access Control, Security Protocols, and Data Security including supervising MSc projects.
+Cybersecurity is my passion, and I am dedicated to advancing the field through both professional practice and academic instruction. I currently work as a Senior Cyber and Information Security Risk Analyst at IT Services, Royal Holloway, University of London. Additionally, I used to be an Assistant Professor at the Information Security Group (ISG), where I had the privilege of teaching a variety of cybersecurity modules, including Computer and Network Security, Access Control, Security Protocols, and Data Security including supervising MSc projects however I am still supervising some cybersecurity-related MSc projects.  
 
 My research interests are diverse and encompass cutting-edge areas such as Blockchain and Distributed Ledger Technologies, Wireless Networks, IoT Security, Privacy, and Risk and Threats Modelling. Over the years, I have contributed to numerous research projects that explore these topics, continually pushing the boundaries of what is possible in cybersecurity.
 
@@ -150,7 +150,7 @@ My research interests are diverse and encompass cutting-edge areas such as Block
 - [Web Security Academy](https://portswigger.net/web-security)
 - [Hack the Box](https://www.hackthebox.eu/)
 - [Prof Bill Buchanan security site](https://asecuritysite.com/)
-- [Try Hack me](https://tryhackme.com/)
+- [Try Hack me](https://tryhackme.com/signup?referrer=5ffeebfa29841c22c5ef7f9f)
 - [Try2Hack](https://try2hack.me/)
 - [EchoCTF](https://echoctf.red/)
 - [Certified Secure](https://www.certifiedsecure.com/)
