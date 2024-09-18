@@ -2,7 +2,7 @@
 
 Cybersecurity is my passion, and I am dedicated to advancing the field through both professional practice and academic instruction. I currently work as a Senior Cyber and Information Security Risk Analyst at IT Services, Royal Holloway, University of London. Additionally, I used to be an Assistant Professor at the Information Security Group (ISG), where I had the privilege of teaching a variety of cybersecurity modules, including Computer and Network Security, Access Control, Security Protocols, and Data Security including supervising MSc projects however I am still supervising some cybersecurity-related MSc projects.  
 
-My research interests are diverse and encompass cutting-edge areas such as Blockchain and Distributed Ledger Technologies, Wireless Networks, IoT Security, Privacy, and Risk and Threats Modelling. Over the years, I have contributed to numerous research projects that explore these topics, continually pushing the boundaries of what is possible in cybersecurity.
+My research interests are diverse and encompass cutting-edge areas such as Blockchain and Distributed Ledger Technologies, Wireless Networks, IoT Security, Privacy, and Risk and Threats Modelling including Security Standards and Third-party Risk Assessment Frameworks. Over the years, I have contributed to numerous research projects that explore these topics, continually pushing the boundaries of what is possible in cybersecurity.
 
 # Education & Experience
 
