@@ -94,6 +94,9 @@ My research interests are diverse and encompass cutting-edge areas such as Block
 - Gonçalo Africano (OT Security)
 - Shaji Kaniyarikkal (SIEM and AI)
 
+**2024/2025**
+- Farah Hasan (Gen AI for Spamming)
+
 ## Final BSc Year Projects: 
 
 **(2019/2020)**:
